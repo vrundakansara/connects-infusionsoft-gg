@@ -1,0 +1,2 @@
+ver 1.0.0 - 31 December, 2015
+- Initial Connects - Infusionsoft Addon
